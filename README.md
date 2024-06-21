@@ -1,2 +1,2 @@
-# js
-A code repo  for JavaScript
+# JavaScript
+Code Repo for JavaScript learning from **CHAI AUR CODE**
