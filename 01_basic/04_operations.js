@@ -34,4 +34,4 @@ num1 = num2 = num3 = 2 + 2
 let gameCounter = 100
 // ++gameCounter  //101 prefix
 // gameCounter++  //101 postfix
-// console.log(gameCounter); 
+console.log(gameCounter); 
